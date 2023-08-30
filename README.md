@@ -1,5 +1,6 @@
 # Ikhwan-Aminullah
 Data Analyst Portfolio
+Tableau Public : https://public.tableau.com/app/profile/ikhwan.aminullah
 
 ### About Me
 Hello! I am Ikhwan, a fresh graduate from Universitas Gadjah Mada majoring in Engineering Physics. I first got into data when i took artificial intelligence class in university and since then, I grew my interest in data and improve my data analysis skill through projects and self learning.
