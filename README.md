@@ -1,5 +1,4 @@
 # Ikhwan-Aminullah
-Data Analyst Portfolio
 Tableau Public : https://public.tableau.com/app/profile/ikhwan.aminullah
 
 ### About Me
