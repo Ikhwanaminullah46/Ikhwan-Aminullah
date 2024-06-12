@@ -159,7 +159,7 @@ if st.button('Predict'):
         'Graduate': 'green'
     }
     color = color_map.get(prediction_result, 'black')  # Default color is black for unknown predictions
-    styled_text = "##<p style='color: {};'>{}<p>".format(color, prediction_result)
+    styled_text = "<p style='color: {};'>{}<p>".format(color, prediction_result)
     st.markdown("### **Student Status: {}**".format(styled_text), unsafe_allow_html=True)
 
 st.write('Class explanation:')
