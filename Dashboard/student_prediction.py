@@ -151,8 +151,7 @@ with st.expander("View the Raw Data"):
 
 
 if st.button('Predict'):
-    with st.expander("View the Preprocessed Data"):
-        st.dataframe(data=new_data, width=800, height=10)
+    new_data = data_preprocessing(data=data)
     st.write("Student Status: {}".format(prediction(new_data)))
 
 st.write('Class explanation:')
