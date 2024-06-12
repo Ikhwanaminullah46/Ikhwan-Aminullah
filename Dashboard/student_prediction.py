@@ -152,7 +152,15 @@ with st.expander("View the Raw Data"):
 
 if st.button('Predict'):
     new_data = data_preprocessing(data=data)
-    st.markdown("## **Student Status: {}**".format(prediction(new_data)))
+    prediction_result = prediction(new_data)
+    color_map = {
+        'Dropout': 'red',
+        'Enrolled': 'yellow',
+        'Graduate': 'green'
+    }
+    color = color_map.get(prediction_result, 'black')  # Default color is black for unknown predictions
+    styled_text = "<p style='color: {};'>{}<p>".format(color, prediction_result)
+    st.markdown("## **Student Status: {}**".format(styled_text), unsafe_allow_html=True)
 
 st.write('Class explanation:')
 st.write('1. Dropout = Student failed to complete their study')
