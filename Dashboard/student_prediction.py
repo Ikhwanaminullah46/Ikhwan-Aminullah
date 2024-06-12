@@ -152,7 +152,7 @@ with st.expander("View the Raw Data"):
 
 if st.button('Predict'):
     new_data = data_preprocessing(data=data)
-    st.write("Student Status: {}".format(prediction(new_data)))
+    st.markdown(" **Student Status: {}**".format(prediction(new_data)))
 
 st.write('Class explanation:')
 st.write('1. Dropout = Student failed to complete their study')
