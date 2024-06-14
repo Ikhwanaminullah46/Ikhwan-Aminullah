@@ -17,13 +17,14 @@ Keluaran dari proyek ini adalah rekomendasi aksi yang dapat dilakukan untuk meng
 ### Persiapan
 Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee
 
-''' 
+```
 Setup environment:
 pipenv install
 pipenv shell
 pip install requirements.txt
 jupyter notebook
-'''
+```
+
 ## Business Dashboard
 ---
 Pada dashboard yang dibuat, terdapat beberapa faktor yang dapat mendeskripsikan karakteristik siswa-siswa yang dropout maupun graduate. Dashboard juga dilengkapi dengan fitur filter, dimana dashboard dapat difilter dengan menekan filter terkait
