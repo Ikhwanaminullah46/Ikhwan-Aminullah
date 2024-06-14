@@ -36,10 +36,6 @@ link dashboard: https://public.tableau.com/views/StudentPerformance_171821648432
 4. Siswa yang dropout menghadiri lebih sedikit kelas dan juga nilai yang lebih buruk.
 
 ## **Recommended Actions**
-1. Add Interview to the admission process. This will help to assess the future students motivations and commitment to finish their study. Giving students academic supervisors also help to monitor their academic progress.
-2. Make more scholarship programs. Students with scholarship has a better academic performance and are very likely to graduate. These scholarships will also help students with financial problem, which will help them to focus more on their studies and eventually finish their studies and graduate.
-3. Buddy Program is recommended to help address students academic performance problems such as lower grade and hopefully their motivation to complete their study. Students will be paired or put into a group that will help each other to study and motivate each other. This well boost students academic grades and boost their likelihood of completing studies.
-
 1. Menambahkan wawancara ketika proses penerimaan siswa. Cara ini dapat membantu untuk menilai calon siswa terkait motivasi dan komitmen mereka untuk menyelesaikan pembelajaran mereka. Memberikan siswa-siswa pembimbing akademik juga dapat membantu mengawasi performa akademis mereka.
 2. Mengadakan lebih banyak program beasiswa. Siswa yang mendapatkan beasiswa memiliki performa yang lebih baik dan mayoritas akan lulus tepat waktu. Program beasiswa ini juga dapat membantu siswa-siswa yang memiliki masalah finansial, sehingga mereka tidak perlu mengambil utang dan fokus pada pembelajaran.
 3. Menerapkan program teman juga direkomendasikan untuk mengatasi performa akademik siswa yang buruk. Selain mengatasi akademik yang buruk, siswa-siswa yang telah dipasang-pasangkan ataupun dimasukkan kedalam kelompok dapat saling membantu terkait studi dan memotivasi satu sama lain. Program ini dapat membantu meningkatkan nilai akademis siswa dan kemungkinan mereka menyelesaikan studinya.
